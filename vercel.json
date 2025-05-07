@@ -1,8 +1,7 @@
 {
-    "version": 2,
-    "routes": [
-      { "src": "/api/validate", "dest": "/api/validate.js" },
-      { "src": "/api/v1/wf-declarative-adr", "dest": "/api/wf-declarative-adr.js" }
-    ]
-  }
-  
+  "version": 2,
+  "routes": [
+    { "src": "/api/validate", "dest": "/api/validate.js" },
+    { "src": "/api/v1/wf-declarative-adr", "dest": "/api/wf-declarative-adr.js" }
+  ]
+}
